@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Victor Alonso</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id nisl malesuada, tincidunt massa non, finibus dui. Nunc eget congue nisi, dictum facilisis lectus. Maecenas vulputate magna id mauris ultricies, sit amet tempus erat mattis. Fusce turpis lacus, convallis sit amet libero nec, scelerisque lobortis justo. Ut a eleifend mi. Suspendisse convallis justo id mollis dictum. Cras et imperdiet magna. Nunc dapibus ultrices arcu non consequat. Sed vel iaculis risus. Vivamus quis aliquet metus. Mauris nulla neque, varius vel rhoncus in, dignissim eget metus. Ut facilisis risus porttitor ligula imperdiet, in auctor lacus efficitur. Proin ut velit pellentesque tellus sagittis dapibus vitae ac urna. Mauris posuere vel neque vel volutpat. Curabitur tincidunt, diam eget elementum commodo, purus lacus accumsan libero, molestie laoreet neque orci ut dui.
+
+In viverra justo ac quam elementum blandit. Integer id sodales turpis. Donec id consequat leo. Proin porta rutrum lectus egestas fermentum. Maecenas eros nisl, facilisis sit amet rutrum a, vulputate rhoncus felis. Sed nec nulla ac mi hendrerit laoreet. Nullam tempor augue eget tempus aliquam. Maecenas rhoncus sodales augue ut rhoncus. Nulla efficitur justo sed posuere vulputate. In tincidunt ipsum ut malesuada feugiat.
+
+Donec nec sagittis magna, suscipit sagittis nunc. Mauris vitae euismod arcu. Ut porttitor dapibus tempor. Nullam id nisi vitae neque gravida pretium ut quis est. Etiam vulputate nibh sit amet eros rutrum rutrum. Donec venenatis erat eget commodo maximus. Nunc volutpat erat eu efficitur ultrices. Aliquam eget quam at lectus hendrerit eleifend sodales sit amet orci.
+
+Etiam lacus libero, maximus id varius et, convallis a lacus. Quisque sed tristique nisl. Phasellus pulvinar, ante iaculis ultricies posuere, massa mi accumsan lectus, non mollis lorem enim nec leo. Nulla faucibus iaculis nulla vitae elementum. Vestibulum hendrerit elementum mi sit amet feugiat. Sed arcu quam, accumsan eu consequat id, malesuada sit amet felis. Suspendisse elementum condimentum tortor, ut hendrerit quam congue quis. Donec rhoncus justo ex, ut egestas sapien fermentum eget. Duis tempus, augue eget venenatis lobortis, purus nulla eleifend tellus, malesuada dictum sapien ex id felis. Cras dictum vestibulum dolor id tempus.
+
+Quisque euismod quam quis enim ultricies eleifend. Nulla consequat tempor volutpat. Fusce vel magna eu neque posuere tempor non sit amet sem. Sed ut massa sit amet ex malesuada malesuada. Mauris vehicula faucibus leo in ultricies. Vivamus elementum elit eu eros ornare malesuada. Morbi efficitur, ante in mollis pellentesque, arcu neque mattis ante, nec sollicitudin justo lorem ac tellus. Nam a ligula vel sem sollicitudin varius.
+
+Ut ut velit nec ante scelerisque volutpat. Proin sed pharetra arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla vel sollicitudin tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed massa diam, bibendum quis orci et, congue euismod ex. Morbi vel sem vel ante finibus fermentum. Aliquam a orci eget arcu tempor ultricies.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
